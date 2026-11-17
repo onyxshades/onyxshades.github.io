@@ -1,1 +1,16 @@
-{"plugins": [{"id": "margyt.allbadges", "name": "Все Бейджи MargyT", "version": "1.0", "author": "evilsstudio", "about": "Добавляет в ваш профиль все бейджи и галочку в стиле Tiktok.", "tiktok": "", "url": "https://github.com/onyxshades/onyxshades.github.io/releases/download/1.0/plugin.mtp", "icon": "", "size": 14390, "sha256": "3c9136c79684f8576e19619bc2df035c36b1bf16a39dc883bbdc4884f2d87e56"}
+{
+  "plugins": [
+    {
+      "id": "margyt.allbadges",
+      "name": "Все Бейджи MargyT",
+      "version": "1.0",
+      "author": "evilsstudio",
+      "about": "Добавляет в ваш профиль все бейджи и галочку в стиле TikTok.",
+      "tiktok": "",
+      "url": "https://github.com/onyxshades/onyxshades.github.io/releases/download/1.0/plugin.mtp",
+      "icon": "",
+      "size": 5860,
+      "sha256": "3c9136c79684f8576e19619bc2df035c36b1bf16a39dc883bbdc4884f2d87e56"
+    }
+  ]
+}
